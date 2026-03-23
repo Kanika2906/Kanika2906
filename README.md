@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
-
 <h1 align="center">Hi! <img align="centre" alt="Coding" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Kanika Banga</h1>
 
 
