@@ -18,7 +18,7 @@
 - 👯 Looking to collaborate on: **Open-source data science / ML projects**
 - 💬 Ask me about: **Python, Machine Learning, Data Visualization, Statistics**
 - 📫 How to reach me: **kanikabanga29@gmail.com**
-- ⚡ Fun fact: ** I love coding and building dashboards **
+- ⚡ Fun fact: **I love coding and building dashboards**
 
 ---
 
